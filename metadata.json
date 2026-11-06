@@ -1,0 +1,6 @@
+{
+  "name": "Punjab Lottery Result",
+  "description": "Official and independent Punjab Lottery Result portal for live draw results, mobile number ticket checker, winning prize details, previous draws archive, and winner certificates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
